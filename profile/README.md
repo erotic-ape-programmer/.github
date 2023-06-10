@@ -1,6 +1,9 @@
-# 程式員．情色猿
+<!-- 程式員．情色猿
+-->
 
 ## Hi there 👋
+
+程式員 means Programmer while 情色猿 is erotic ape. In Cantonese, they pronunce exactly the same! Therefore, there is nothing erotic here... All are computer programming stuff.
 
 <!--
 
